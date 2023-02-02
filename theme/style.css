@@ -1,14 +1,17 @@
 html, body {
     margin: auto;
     border: 0;
+    width: 50%;
+    padding: 10px;
     font-size: 100%;
     background-color: blanchedalmond;
     color: darkslategray;
 }
 
 ol {
+    background-color: burlywood;
     margin: auto;
     width: 50%;
     border: 3px steelblue;
-    padding: 10px;
+    padding-left: 0px;
 }

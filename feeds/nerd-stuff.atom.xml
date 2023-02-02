@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mattsheydwasser's Site - Nerd Stuff</title><link href="https://mattsheydwasser.github.io/" rel="alternate"></link><link href="https://mattsheydwasser.github.io/feeds/nerd-stuff.atom.xml" rel="self"></link><id>https://mattsheydwasser.github.io/</id><updated>2023-02-02T10:00:00-07:00</updated><entry><title>Star Wars Characters</title><link href="https://mattsheydwasser.github.io/star-wars-characters.html" rel="alternate"></link><published>2023-02-02T10:00:00-07:00</published><updated>2023-02-02T10:00:00-07:00</updated><author><name>Matthew Sheydwasser</name></author><id>tag:mattsheydwasser.github.io,2023-02-02:/star-wars-characters.html</id><content type="html">&lt;p&gt;Some random characters from the Star Wars Franchise:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Boba Fett&lt;/li&gt;
+&lt;li&gt;Kylo Ren&lt;/li&gt;
+&lt;li&gt;Din Djarin&lt;/li&gt;
+&lt;li&gt;Luke Skywalker&lt;/li&gt;
+&lt;li&gt;Fennec Shand&lt;/li&gt;
+&lt;li&gt;Han Solo&lt;/li&gt;
+&lt;li&gt;R2-D2&lt;/li&gt;
+&lt;li&gt;Chewbacca&lt;/li&gt;
+&lt;li&gt;Grand Admiral Thrawn&lt;/li&gt;
+&lt;li&gt;Revan&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Nerd Stuff"></category></entry></feed>

@@ -8,4 +8,7 @@ html, body {
 
 ol {
     margin: auto;
+    width: 50%;
+    border: 3px steelblue;
+    padding: 10px;
 }

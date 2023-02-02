@@ -1,7 +1,11 @@
 html, body {
-    margin: 0;
+    margin: auto;
     border: 0;
     font-size: 100%;
     background-color: blanchedalmond;
     color: darkslategray;
+}
+
+ol {
+    margin: auto;
 }

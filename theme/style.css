@@ -1,4 +1,4 @@
-html, body {
+body {
     margin: auto;
     border: 0;
     width: 50%;
@@ -9,8 +9,7 @@ html, body {
 }
 
 ol {
-    background-color: burlywood;
-    margin: auto;
+    margin: 0;
     width: 50%;
     border: 3px steelblue;
     padding-left: 0px;

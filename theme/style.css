@@ -18,7 +18,7 @@ nav#menu ul {
     margin: auto;
     list-style-type: none;
     padding: 0;
-    width: 50%;
+    width: fit-content;
     overflow: hidden;
     background-color: coral;
     border-radius: 25px;
@@ -41,6 +41,11 @@ section#content {
 section#content ol#post-list li {
     margin: 50px;
 }
+section#content ol#post-list li ol li {
+    margin: -10px;
+    padding: 5px;
+}
+
 
 /* div.entry-content ol {
     margin-top: -30px;
@@ -48,4 +53,4 @@ section#content ol#post-list li {
 
 div.entry-content ol li p {
     margin-bottom: -30px;
-} */
+} 
